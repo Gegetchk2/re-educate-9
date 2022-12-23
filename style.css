@@ -1,0 +1,61 @@
+* {
+    padding-left: 0px;
+    margin-left: -30px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.right_side {
+    
+    height: 100%;
+    width: 50%;
+}
+.right_side img {
+    height: 100%;
+    width: 50%;
+    margin-left: 300px;
+}
+section {
+    display: flex;
+    justify-content: center;
+}
+.inputs input {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 30px;
+    margin-left: 350px;
+    gap: 30px;
+}
+label {
+    margin-left: 350px;
+}
+.services {
+    display: flex;
+}
+.services img {
+    height: 20px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+p {
+    word-spacing: 10px;
+}
+a {
+    margin-left: 10px;
+}
+.paragraph {
+    width: 800px;
+    margin-top: 30px;
+}
+.icons {
+    display: flex;
+    width: 100px;
+    margin-left: 200px;
+}
+.icons img {
+    width: 100px;
+    margin-left: 100px;
+}
